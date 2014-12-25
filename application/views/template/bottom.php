@@ -14,11 +14,11 @@
                           </div>
                           <div class="col-sm-6">
                             <p>
-                            <a href="#" class="pull-right">©Copyright 2013</a>
+                            <a href="#" class="pull-right">BlueSangria ©Copyright 2015</a>
                             </p>
                           </div>
                         </div>
-                      
+                      <!--
                       <hr>
                       
                       <h4 class="text-center">
@@ -26,7 +26,7 @@
                       </h4>
                         
                       <hr>
-                        
+                        -->
                       
                     </div><!-- /col-9 -->
                 </div><!-- /padding -->

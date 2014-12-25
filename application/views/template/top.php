@@ -26,30 +26,35 @@
             	</ul>
                
                 <ul class="nav hidden-xs" id="lg-menu">
-                    <li class="active"><a href="#featured"><i class="glyphicon glyphicon-dashboard"></i> Dashboard</a></li>
-                    <li><a href="#stories"><i class="glyphicon glyphicon-camera"></i> Cameras</a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-off"></i> Lights</a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-transfer"></i> Scenes</a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-floppy-disk"></i> Programs</a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-globe"></i> Climate</a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-hdd"></i> Network</a></li>
+                    <li class="active"><a href="/"><i class="glyphicon glyphicon-dashboard"></i> Dashboard</a></li>
+                    <li><a href="/cameras"><i class="glyphicon glyphicon-camera"></i> Cameras</a></li>
+                    <li><a href="/lights"><i class="glyphicon glyphicon-off"></i> Lights</a></li>
+                    <li><a href="/scenes"><i class="glyphicon glyphicon-transfer"></i> Scenes</a></li>
+                    <li><a href="/programs"><i class="glyphicon glyphicon-floppy-disk"></i> Programs</a></li>
+                    <!--
+                    <li><a href="/climate"><i class="glyphicon glyphicon-globe"></i> Climate</a></li>
+                    <li><a href="/network"><i class="glyphicon glyphicon-hdd"></i> Network</a></li>
+                    -->
 
                 </ul>
+                <!--
                 <ul class="list-unstyled hidden-xs" id="sidebar-footer">
                     <li>
                       <a href="http://www.bootply.com"><h3>Bootstrap</h3> <i class="glyphicon glyphicon-heart-empty"></i> Bootply</a>
                     </li>
                 </ul>
-              
+              -->
               	<!-- tiny only nav-->
               <ul class="nav visible-xs" id="xs-menu">
-                  	<li class="active"><a href="#featured"><i class="glyphicon glyphicon-dashboard"></i></a></li>
-                    <li><a href="#stories"><i class="glyphicon glyphicon-camera"></i></a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-off"></i></a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-transfer"></i></a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-floppy-disk"></i></a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-globe"></i></a></li>
-                    <li><a href="#"><i class="glyphicon glyphicon-hdd"></i></a></li>
+                  	<li class="active"><a href="/"><i class="glyphicon glyphicon-dashboard"></i></a></li>
+                    <li><a href="/cameras"><i class="glyphicon glyphicon-camera"></i></a></li>
+                    <li><a href="/lights"><i class="glyphicon glyphicon-off"></i></a></li>
+                    <li><a href="/scenes"><i class="glyphicon glyphicon-transfer"></i></a></li>
+                    <li><a href="/programs"><i class="glyphicon glyphicon-floppy-disk"></i></a></li>
+                    <!--
+                    <li><a href="/climate"><i class="glyphicon glyphicon-globe"></i></a></li>
+                    <li><a href="/network"><i class="glyphicon glyphicon-hdd"></i></a></li>
+                    -->
                 </ul>
               
             </div>
